@@ -15,3 +15,7 @@ void loop() {
   myservo.write(servoAngle);
   delay(15);
 }
+
+// SERVO > ARDUNO = KABEL KUNING > PIN DIGITAL | KABEL MARAH > 3.3V | KABEL COKLAT > GND
+
+// DISPLAY KIT/BREADBOREAD > ARDUINO = POT > ANALOG IN | G > GND | + > 5V 
